@@ -1,5 +1,3 @@
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prajkta Pramod Waingankar
 =================================================================================================================================================
 
@@ -8,11 +6,11 @@ I'm an Android App Developer
 
 App developer who loves sleeping and eating🙂
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [waingankar.prajkta27@gmail.com](mailto:waingankar.prajkta27@gmail.com)
-* 🧠  I'm learning Kotlin and many new things
-* 🤝  I'm open to collaborating on interesting project
-* ⚡  I'm Best😎, Tell everyone
+* 🌍  I'm based in India
+* ✉  You can contact me at [waingankar.prajkta27@gmail.com](mailto:waingankar.prajkta27@gmail.com)
+* 🧠  I'm learning Kotlin and many new things
+* 🤝  I'm open to collaborating on interesting project
+* ⚡  I'm Best😎, Tell everyone
 
 <a href="https://www.github.com/prajkta94" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prajkta94?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -29,14 +27,17 @@ src="https://img.shields.io/github/followers/prajkta94?logo=github&style=for-the
 
 <p align="left"> <a href="https://www.github.com/prajkta94" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mr_aks_man" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https:/aman-kumar-singh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/prajkta94"><img src="https://github-readme-stats.vercel.app/api?username=prajkta94&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prajkta94's GitHub stats" /></a>
 
-<a href="http://www.github.com/prajkta94"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prajkta94&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/prajkta94"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prajkta94&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+####STATS
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajkta94&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=prajkta94&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajkta94&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=prajkta94&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajkta94&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<a href="https://github.com/prajkta94" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajkta94&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
