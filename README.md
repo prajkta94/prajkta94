@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm an Android App Developer
 ----------------------------
 
-App developer who loves sleeping and eating🙂
+App developer who loves sleeping and eating
 
 * 🌍  I'm based in India
 * ✉  You can contact me at [waingankar.prajkta27@gmail.com](mailto:waingankar.prajkta27@gmail.com)
