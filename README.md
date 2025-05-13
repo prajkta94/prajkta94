@@ -10,7 +10,7 @@ App developer who loves sleeping and eating
 * ✉  You can contact me at [waingankar.prajkta27@gmail.com](mailto:waingankar.prajkta27@gmail.com)
 * 🧠  I'm learning Kotlin and many new things
 * 🤝  I'm open to collaborating on interesting project
-* ⚡  I'm Best😎, Tell everyone
+* ⚡  I'm Best😎, Tell everyone 
 
 <a href="https://www.github.com/prajkta94" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prajkta94?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
